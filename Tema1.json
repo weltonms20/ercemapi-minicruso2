@@ -1,0 +1,411 @@
+{
+    "game" : "[GameQuiz]TipoA",
+    "etapas" : [
+            {"questions" : [
+                {
+                    "_id" : "000",
+                    "pergunta" : "QUESTAO - letraa b - 000",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 21
+                },
+                {
+                    "_id" : "001",
+                    "pergunta" : "QUESTAO - letra b  - 001",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "002",
+                    "pergunta" : "QUESTAO - letra b - 002",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "003",
+                    "pergunta" : "QUESTAO - letra b - 003",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "004",
+                    "pergunta" : "QUESTAO - letra b - 004",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "054",
+                    "pergunta" : "QUESTAO - letra b - 005",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "064",
+                    "pergunta" : "QUESTAO - letra b - 0006",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "074",
+                    "pergunta" : "QUESTAO - letra b - 0007",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "084",
+                    "pergunta" : "QUESTAO - letra b - 0008",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "094",
+                    "pergunta" : "QUESTAO - letra b - 0009",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                }
+            ]},
+            {"questions" : [
+                {
+                    "_id" : "005",
+                    "pergunta" : "QUESTAO - letra b - 00010",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "006",
+                    "pergunta" : "QUESTAO - letra b - 00011",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "007",
+                    "pergunta" : "QUESTAO - letra b - 00012",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "008",
+                    "pergunta" : "QUESTAO - letra b - 00013",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "009",
+                    "pergunta" : "QUESTAO - letra b - 00014",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                }
+            ]},
+            {"questions" : [
+                {
+                    "_id" : "010",
+                    "pergunta" : "QUESTAO - letra b - 00015",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "011",
+                    "pergunta" : "QUESTAO - letra b - 00016",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "012",
+                    "pergunta" : "QUESTAO - letra b - 00017",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "013",
+                    "pergunta" : "QUESTAO - letra b - 00018",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                },
+                {
+                    "_id" : "014",
+                    "pergunta" : "QUESTAO - letra b - 00019",
+                    "habilidade" : "conhecimento",
+                    "alternativas" : [
+                        "ALTERNATIVA A",
+                        "ALTERNATIVA B",
+                        "ALTERNATIVA C",
+                        "ALTERNATIVA D"
+                    ],
+                    "feedback" : [
+                        "FEEDBACK A",
+                        "FEEDBACK B",
+                        "FEEDBACK C",
+                        "FEEDBACK D"
+                    ],
+                    "correta" : 1,
+                    "dificuldade": 1,
+                    "tempo" : 30
+                }
+            ]}
+    ]
+}
