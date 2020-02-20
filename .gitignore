@@ -131,3 +131,5 @@ dmypy.json
 
 
 chave-privada.txt
+/Resources/
+/Resources/config/
